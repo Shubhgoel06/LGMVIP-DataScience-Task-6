@@ -9,9 +9,9 @@ The Iris dataset is a popular dataset in machine learning and statistics. It con
 You'll see output showing the accuracy, classification report, confusion matrix, and visualizations of the Decision Tree. Additionally, the predictions for the new samples will be displayed.
 
 # Dependencies
-Python 3.x
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+- Python 3.x
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
